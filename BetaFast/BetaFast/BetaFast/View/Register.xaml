@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:BetaFast.View"
              xmlns:properties="clr-namespace:BetaFast.ViewProperties"
-             Background="Silver"
+             Background="LightGoldenrodYellow"
              mc:Ignorable="d"
              d:DesignHeight="750"
              d:DesignWidth="1200"
@@ -42,7 +42,8 @@
               HorizontalAlignment="Center"
               VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="253*" />
+                <ColumnDefinition Width="947*"/>
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="40" />
@@ -50,19 +51,17 @@
             </Grid.RowDefinitions>
 
             <!-- Welcome Message -->
-            <TextBlock Text="We can't wait for you to rent Betamax tapes!"
+            <TextBlock Text="ILT new user registration"
                        Grid.Row="0"
-                       Grid.Column="1"
-                       Margin="0,0,0,0"
+                       Margin="180.875,-3,414,0"
                        TextWrapping="Wrap"
-                       Width="700"
+                       Width="352"
                        HorizontalAlignment="Center"
-                       VerticalAlignment="Center"
-                       FontSize="32">
-            </TextBlock>
+                       VerticalAlignment="Bottom"
+                       FontSize="32" Grid.Column="1"/>
 
             <Grid Grid.Row="1"
-                  Grid.Column="0">
+                  Grid.Column="0" Grid.ColumnSpan="2">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="500" />
                     <ColumnDefinition Width="700" />

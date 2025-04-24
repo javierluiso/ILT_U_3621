@@ -145,7 +145,7 @@ namespace BetaFast.ViewModel
             string adminPassword = "EIqEWJIODv9easB6iQybuQ==";
             try
             {
-                if (Username.Equals("betafastadmin") && Encrypt(SecureStringUtility.SecureStringToString(Password)).Equals(adminPassword))
+                if (Username.Equals("iltadmin") && Encrypt(SecureStringUtility.SecureStringToString(Password)).Equals(adminPassword))
                 {
                     return true;
                 }

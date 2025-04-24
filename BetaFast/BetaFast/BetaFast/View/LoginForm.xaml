@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:BetaFast.View"
              xmlns:properties="clr-namespace:BetaFast.ViewProperties"
-             Background="Silver"
+             Background="LightGoldenrodYellow"
              mc:Ignorable="d"
              d:DesignHeight="750"
              d:DesignWidth="1200"
@@ -90,7 +90,7 @@
                        HorizontalAlignment="Center" />
 
             <!-- New User Text -->
-            <TextBlock Text="New BetaFast user?"
+            <TextBlock Text="New ILT user?"
                        Margin="0,30,0,0"
                        TextWrapping="Wrap"
                        Width="300"
@@ -111,13 +111,12 @@
                     Background="{StaticResource BetaFastLight}"
                     Foreground="White" />
 
-            <TextBlock Text="BetaFast © 1981"
+            <TextBlock
                        Margin="0,50,0,0"
                        TextWrapping="Wrap"
                        Width="300"
                        TextAlignment="Center"
-                       FontSize="14">
-            </TextBlock>
+                       FontSize="14"><Run Text="ILT"/><Run Text=" © "/><Run Text="2025"/></TextBlock>
         </StackPanel>
     </Viewbox>
 </UserControl>
