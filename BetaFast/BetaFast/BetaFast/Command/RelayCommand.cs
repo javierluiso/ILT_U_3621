@@ -1,10 +1,10 @@
-﻿using BetaFast.Event;
+﻿using ILTU3621.Event;
 using System;
 using System.Windows.Input;
 
 // Code credited to https://www.technical-recipes.com/2016/using-relaycommand-icommand-to-handle-events-in-wpf-and-mvvm/
 
-namespace BetaFast.Command
+namespace ILTU3621.Command
 {
     public class RelayCommand<T> : ICommand
     {

@@ -6,7 +6,7 @@ using System.Data;
 using System.Windows;
 using System.Diagnostics;
 
-namespace BetaFast.Utilities
+namespace ILTU3621.Utilities
 {
     public static class DatabaseUtility
     {

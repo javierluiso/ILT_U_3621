@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace BetaFast.View
+namespace ILTU3621.View
 {
     /// <summary>
     /// Interaction logic for Register.xaml

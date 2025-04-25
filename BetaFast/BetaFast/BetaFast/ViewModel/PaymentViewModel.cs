@@ -1,7 +1,7 @@
-using BetaFast.Command;
-using BetaFast.Exceptions;
-using BetaFast.Utilities;
-using BetaFast.ViewModel.Base;
+using ILTU3621.Command;
+using ILTU3621.Exceptions;
+using ILTU3621.Utilities;
+using ILTU3621.ViewModel.Base;
 using System;
 using System.Diagnostics;
 using System.IO;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     public class PaymentViewModel : ViewModelWithNavigationBarBase
     {

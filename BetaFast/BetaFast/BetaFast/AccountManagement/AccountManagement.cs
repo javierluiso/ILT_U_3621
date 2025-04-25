@@ -1,7 +1,7 @@
-﻿using BetaFast.Controllers;
-using BetaFast.Exceptions;
-using BetaFast.Model;
-using BetaFast.Utilities;
+﻿using ILTU3621.Controllers;
+using ILTU3621.Exceptions;
+using ILTU3621.Model;
+using ILTU3621.Utilities;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace BetaFast.AccountManagement
+namespace ILTU3621.AccountManagement
 {
     public static class AccountManagement
     {

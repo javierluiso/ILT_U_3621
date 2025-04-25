@@ -1,4 +1,4 @@
-﻿namespace BetaFast.Model
+﻿namespace ILTU3621.Model
 {
     public class PaymentDetails
     {

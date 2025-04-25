@@ -1,4 +1,4 @@
-﻿namespace BetaFast.ViewModel.Interfaces
+﻿namespace ILTU3621.ViewModel.Interfaces
 {
     public interface IViewModelAuthenticated : IViewModel
     {

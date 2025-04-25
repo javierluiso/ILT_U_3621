@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BetaFast.Utilities
+namespace ILTU3621.Utilities
 {
     public static class ArrayUtility
     {

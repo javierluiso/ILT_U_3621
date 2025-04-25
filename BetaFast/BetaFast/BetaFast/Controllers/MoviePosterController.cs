@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace BetaFast.Controllers
+namespace ILTU3621.Controllers
 {
     public class MoviePosterController : ApiController
     {

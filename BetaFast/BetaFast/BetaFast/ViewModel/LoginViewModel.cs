@@ -1,17 +1,17 @@
-using BetaFast.Command;
-using BetaFast.Authentication;
-using BetaFast.ViewModel.Interfaces;
+using ILTU3621.Command;
+using ILTU3621.Authentication;
+using ILTU3621.ViewModel.Interfaces;
 using System.Windows.Input;
-using BetaFast.Model;
+using ILTU3621.Model;
 using System;
 using System.Threading.Tasks;
 using System.Security;
-using BetaFast.Exceptions;
-using BetaFast.Utilities;
+using ILTU3621.Exceptions;
+using ILTU3621.Utilities;
 using System.Security.Cryptography;
 using System.IO;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     public class LoginViewModel : ViewModelBase, IViewModel
     {

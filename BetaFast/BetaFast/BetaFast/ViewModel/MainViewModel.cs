@@ -1,10 +1,10 @@
-﻿using BetaFast.ViewModel.Interfaces;
+﻿using ILTU3621.ViewModel.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
 
 // Code credited to https://www.technical-recipes.com/2016/using-the-mediator-pattern-in-mvvm-wpf/
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     public class MainViewModel : ViewModelBase
     {

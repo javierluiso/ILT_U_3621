@@ -1,9 +1,9 @@
-﻿using BetaFast.Utilities;
+﻿using ILTU3621.Utilities;
 using System.Security;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace BetaFast.ViewProperties
+namespace ILTU3621.ViewProperties
 {
     // Credit to http://blog.functionalfun.net/2008/06/wpf-passwordbox-and-data-binding.html
 

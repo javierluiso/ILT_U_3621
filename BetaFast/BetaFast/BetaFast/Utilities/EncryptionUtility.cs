@@ -1,5 +1,5 @@
-using BetaFast.Controllers;
-using BetaFast.Exceptions;
+using ILTU3621.Controllers;
+using ILTU3621.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
 
-namespace BetaFast.Utilities
+namespace ILTU3621.Utilities
 {
     public static class EncryptionUtility
     {

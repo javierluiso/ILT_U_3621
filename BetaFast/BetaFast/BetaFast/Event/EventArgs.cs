@@ -2,7 +2,7 @@
 
 // Code credited to https://www.technical-recipes.com/2016/using-relaycommand-icommand-to-handle-events-in-wpf-and-mvvm/
 
-namespace BetaFast.Event
+namespace ILTU3621.Event
 {
     public class EventArgs<T> : EventArgs
     {

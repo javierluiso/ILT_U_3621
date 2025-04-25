@@ -1,6 +1,7 @@
-﻿using System.Windows.Controls;
+﻿using System;
+using System.Windows.Controls;
 
-namespace BetaFast.View.Controls
+namespace ILTU3621.View.Controls
 {
     /// <summary>
     /// Interaction logic for NavigationBar.xaml

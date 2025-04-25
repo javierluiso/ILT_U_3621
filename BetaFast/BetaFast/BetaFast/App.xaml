@@ -1,9 +1,8 @@
-﻿<Application x:Class="BetaFast.App"
+﻿<Application x:Class="ILTU3621.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:BetaFast"
-             xmlns:View="clr-namespace:BetaFast.View"
-             xmlns:ViewModel="clr-namespace:BetaFast.ViewModel"
+             xmlns:View="clr-namespace:ILTU3621.View"
+             xmlns:ViewModel="clr-namespace:ILTU3621.ViewModel"
              StartupUri="View/MainWindow.xaml">
     <Application.Resources>
         <ViewModel:MainViewModel x:Key="MainViewModel" />

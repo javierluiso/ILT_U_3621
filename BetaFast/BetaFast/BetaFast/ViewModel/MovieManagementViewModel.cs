@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
-using BetaFast.Command;
-using BetaFast.Exceptions;
-using BetaFast.Model;
-using BetaFast.Utilities;
-using BetaFast.ViewModel.Base;
+using ILTU3621.Command;
+using ILTU3621.Exceptions;
+using ILTU3621.Model;
+using ILTU3621.Utilities;
+using ILTU3621.ViewModel.Base;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     class MovieManagementViewModel : ViewModelWithNavigationBarBase
     {

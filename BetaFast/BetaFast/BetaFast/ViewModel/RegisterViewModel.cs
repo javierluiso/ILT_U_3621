@@ -1,14 +1,14 @@
-﻿using BetaFast.Command;
-using BetaFast.Exceptions;
-using BetaFast.Model;
-using BetaFast.ViewModel.Interfaces;
+﻿using ILTU3621.Command;
+using ILTU3621.Exceptions;
+using ILTU3621.Model;
+using ILTU3621.ViewModel.Interfaces;
 using System;
 using System.Diagnostics;
 using System.Security;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     class RegisterViewModel : ViewModelBase, IViewModel
     {

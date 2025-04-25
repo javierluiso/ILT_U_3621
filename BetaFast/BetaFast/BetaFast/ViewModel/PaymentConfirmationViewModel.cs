@@ -1,6 +1,6 @@
-﻿using BetaFast.ViewModel.Base;
+﻿using ILTU3621.ViewModel.Base;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     class PaymentConfirmationViewModel : ViewModelWithNavigationBarBase
     {

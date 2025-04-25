@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace BetaFast.Exceptions
+namespace ILTU3621.Exceptions
 {
     [Serializable]
     public class UnauthenticatedException : Exception

@@ -1,12 +1,12 @@
-﻿using BetaFast.Authentication;
-using BetaFast.Command;
-using BetaFast.ViewModel.Interfaces;
+﻿using ILTU3621.Authentication;
+using ILTU3621.Command;
+using ILTU3621.ViewModel.Interfaces;
 using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Windows.Input;
 
-namespace BetaFast.ViewModel.Base
+namespace ILTU3621.ViewModel.Base
 {
     public abstract class ViewModelWithNavigationBarBase : INotifyPropertyChanged, IViewModelAuthenticated
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 // Code credited to https://www.technical-recipes.com/2016/using-the-mediator-pattern-in-mvvm-wpf/
 
-namespace BetaFast.Mediator
+namespace ILTU3621.Mediator
 {
     public static class Mediator
     {

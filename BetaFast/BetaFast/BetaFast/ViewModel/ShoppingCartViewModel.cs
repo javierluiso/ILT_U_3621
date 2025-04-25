@@ -4,12 +4,12 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
-using BetaFast.Command;
-using BetaFast.Exceptions;
-using BetaFast.Model;
-using BetaFast.ViewModel.Base;
+using ILTU3621.Command;
+using ILTU3621.Exceptions;
+using ILTU3621.Model;
+using ILTU3621.ViewModel.Base;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     class ShoppingCartViewModel : ViewModelWithNavigationBarBase
     {

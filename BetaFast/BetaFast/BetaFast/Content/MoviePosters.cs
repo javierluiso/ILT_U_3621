@@ -1,12 +1,12 @@
-﻿using BetaFast.Controllers;
-using BetaFast.Exceptions;
+﻿using ILTU3621.Controllers;
+using ILTU3621.Exceptions;
 using System;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Windows.Media.Imaging;
 
-namespace BetaFast.Content
+namespace ILTU3621.Content
 {
     public class MoviePosters
     {

@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Threading.Tasks;
-using BetaFast.Model;
+using ILTU3621.Model;
 using System.Windows.Input;
-using BetaFast.Command;
-using BetaFast.ViewModel.Base;
+using ILTU3621.Command;
+using ILTU3621.ViewModel.Base;
 using System.Windows.Media.Imaging;
 using System.Windows;
 using System.Diagnostics;
-using BetaFast.Exceptions;
+using ILTU3621.Exceptions;
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     public class MovieViewModel : ViewModelWithNavigationBarBase
     {

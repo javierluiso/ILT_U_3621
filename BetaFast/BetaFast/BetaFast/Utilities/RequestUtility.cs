@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BetaFast.Utilities
+namespace ILTU3621.Utilities
 {
     public static class RequestUtility
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace BetaFast.Security
+namespace ILTU3621.Security
 {
     public static class InputValidation
     {

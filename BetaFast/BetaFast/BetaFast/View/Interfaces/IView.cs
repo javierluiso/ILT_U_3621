@@ -1,4 +1,4 @@
-﻿namespace BetaFast.View.Interfaces
+﻿namespace ILTU3621.View.Interfaces
 {
     public interface IView
     {

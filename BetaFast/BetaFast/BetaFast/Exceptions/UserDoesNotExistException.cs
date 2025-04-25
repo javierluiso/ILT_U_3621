@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BetaFast.Exceptions
+namespace ILTU3621.Exceptions
 {
     [Serializable]
     public class UserDoesNotExistException : Exception

@@ -2,7 +2,7 @@
 using System.Security.AccessControl;
 using System.Security.Principal;
 
-namespace BetaFast.Utilities
+namespace ILTU3621.Utilities
 {
     public static class FileUtility
     {

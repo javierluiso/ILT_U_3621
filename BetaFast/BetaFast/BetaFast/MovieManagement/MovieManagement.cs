@@ -1,8 +1,8 @@
-﻿using BetaFast.Content;
-using BetaFast.Controllers;
-using BetaFast.Exceptions;
-using BetaFast.Model;
-using BetaFast.Utilities;
+﻿using ILTU3621.Content;
+using ILTU3621.Controllers;
+using ILTU3621.Exceptions;
+using ILTU3621.Model;
+using ILTU3621.Utilities;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media.Imaging;
 
-namespace BetaFast.MovieManagement
+namespace ILTU3621.MovieManagement
 {
     public static class MovieManagement
     {

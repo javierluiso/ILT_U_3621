@@ -1,7 +1,7 @@
 ﻿using System.Security;
-using BetaFast.Model.Interfaces;
+using ILTU3621.Model.Interfaces;
 
-namespace BetaFast.Model
+namespace ILTU3621.Model
 {
     public class Creds : IModel
     {

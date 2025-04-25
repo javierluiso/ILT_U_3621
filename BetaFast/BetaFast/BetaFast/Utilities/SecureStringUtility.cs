@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
 
-namespace BetaFast.Utilities
+namespace ILTU3621.Utilities
 {
     public static class SecureStringUtility
     {

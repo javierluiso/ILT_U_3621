@@ -1,6 +1,7 @@
-﻿using System.Windows.Controls;
+﻿using System;
+using System.Windows.Controls;
 
-namespace BetaFast.View
+namespace ILTU3621.View
 {
     /// <summary>
     /// Interaction logic for AboutUs.xaml

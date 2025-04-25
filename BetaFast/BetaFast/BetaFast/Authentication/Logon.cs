@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using BetaFast.Utilities;
-using BetaFast.Controllers;
+using ILTU3621.Utilities;
+using ILTU3621.Controllers;
 using System.Net.Http;
-using BetaFast.Exceptions;
+using ILTU3621.Exceptions;
 
-namespace BetaFast.Authentication
+namespace ILTU3621.Authentication
 {
     public static class Logon
     {

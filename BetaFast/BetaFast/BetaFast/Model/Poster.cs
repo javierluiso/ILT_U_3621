@@ -1,10 +1,10 @@
-﻿using BetaFast.Model.Interfaces;
-using BetaFast.Utilities;
+﻿using ILTU3621.Model.Interfaces;
+using ILTU3621.Utilities;
 using System;
 using System.Drawing.Imaging;
 using System.Windows.Media.Imaging;
 
-namespace BetaFast.Model
+namespace ILTU3621.Model
 {
     public class Poster : IModel
     {

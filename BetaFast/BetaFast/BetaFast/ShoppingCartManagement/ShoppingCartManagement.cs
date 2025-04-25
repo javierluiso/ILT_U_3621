@@ -1,15 +1,15 @@
-using BetaFast.Controllers;
-using BetaFast.Exceptions;
-using BetaFast.Model;
+using ILTU3621.Controllers;
+using ILTU3621.Exceptions;
+using ILTU3621.Model;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http;
 using System.Threading.Tasks;
-using ServerException = BetaFast.Exceptions.ServerException;
+using ServerException = ILTU3621.Exceptions.ServerException;
 
-namespace BetaFast.ShoppingCart
+namespace ILTU3621.ShoppingCart
 {
     public static class ShoppingCartManagement
     {

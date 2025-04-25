@@ -1,8 +1,8 @@
-﻿using BetaFast.View.Interfaces;
+﻿using ILTU3621.View.Interfaces;
 using System;
 using System.Windows;
 
-namespace BetaFast.View
+namespace ILTU3621.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

@@ -2,9 +2,9 @@
 using System.Runtime.InteropServices;
 using System.Security;
 using System.Threading.Tasks;
-using BetaFast.Utilities;
+using ILTU3621.Utilities;
 
-namespace BetaFast.SecureStringRequests
+namespace ILTU3621.SecureStringRequests
 {
     public static class SecureStringRequests
     {

@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 // Code credited to https://www.technical-recipes.com/2016/using-the-mediator-pattern-in-mvvm-wpf/
 
-namespace BetaFast.ViewModel
+namespace ILTU3621.ViewModel
 {
     public abstract class ViewModelBase : INotifyPropertyChanged
     {
